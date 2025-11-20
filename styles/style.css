@@ -182,8 +182,8 @@ button {
   flex-direction: column;
   justify-content: space-between;
   gap: 30px;
-  height: 100%;
   width: auto;
+  height: 100%;
   padding: 50px 40px;
   color: #fff;
   text-decoration: none;
